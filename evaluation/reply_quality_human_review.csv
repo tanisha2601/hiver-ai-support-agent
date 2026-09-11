@@ -1,0 +1,338 @@
+tweet_id,text,previous_context,predicted_intent,retrieved_evidence,generated_reply,human_relevance,human_helpfulness,human_groundedness,human_clarity,human_unsupported_claims,human_overall,human_notes
+612749,@AmazonHelp Did. No response from Seller and Amazon. will file a dispute with CC and will return and charge a cashback.,@265727 That's very unusual. Please report this here: https://t.co/rS49hgaADF so that our team can assist you accordingly. ^BV,REFUND_RETURN,"--- Example 1 (Similarity: 0.52) ---
+Customer: @AmazonHelp I already did but no response
+Historical Agent: @125706 Was the order placed on Amazon.in or https://t.co/nUUp5MLhYl ? ^MK
+
+--- Example 2 (Similarity: 0.52) ---
+Customer: @AmazonHelp I did that but no response
+Historical Agent: @170029 Thank you for providing your details. We will get back at the earliest.^SB
+
+--- Example 3 (Similarity: 0.52) ---
+Customer: @AmazonHelp I did this and no response.
+Historical Agent: @205062 If you've shared the required details on the link provided earlier you must have received an update from us. (1/2)",@205062 If you've shared the required details on the link provided earlier you must have received an update from us. (1/2) ^AI,,,,,,,
+270927,@AmazonHelp It was shipped and sold by Amazon.,@180631 (2/2) replace specific parts. Please keep us posted on the outcome of your call tomorrow. ^MV,DELIVERY_SHIPPING,"--- Example 1 (Similarity: 1.00) ---
+Customer: @AmazonHelp shipped and sold through amazon.
+Historical Agent: @639861 Thank you for the information Amanda. You'll be able to find return or replacement options if available at this link here: https://t.co/t3CSGgxgog ^VS
+
+--- Example 2 (Similarity: 1.00) ---
+Customer: @AmazonHelp Shipped and sold by Amazon
+Historical Agent: @809824 Thanks for the information! Please let us know if you don't receive your package by the updated delivery date given from your confirmation e-mail.  You can reach us here as well if anything further is needed: https://t.co/hApLpMlfHN ^MO
+
+--- Example 3 (Similarity: 1.00) ---
+Customer: @AmazonHelp Shipped and sold by Amazon.
+Historical Agent: @426049 We're happy to review the order and any available options with you directly here: https://t.co/hApLpMlfHN ^JR",I understand your issue regarding delivery shipping. @639861 Thank you for the information Amanda. You'll be able to find return or replacement options if available at this link here: https://t.co/t3CSGgxgog ^AI,,,,,,,
+1223698,@AmazonHelp I'd like to know why you don't require a card's CVV number when registering it on a profile.,@407072 Can I ask for more info on the issue you have with our payment system so we can assist you further. Thank you. ^GA,PAYMENT_BILLING,"--- Example 1 (Similarity: 0.33) ---
+Customer: @AmazonHelp I would like to know when is my brother package coming? I don’t know the tracking number
+Historical Agent: @771017 I'm sorry. We don't have any information about the order via Twitter. For insight, you can have your brother log in at this link to check the current status of his order: https://t.co/Y5jpI9gRhE ^WT
+
+--- Example 2 (Similarity: 0.32) ---
+Customer: @AmazonHelp I would like to know if I can get 5.1 content with Fire TV stick.?
+Historical Agent: @353503 Hi - are you referring to 5.1 Audio? If so, yes. Pls see : https://t.co/WVokgxvwlx  ^TD
+
+--- Example 3 (Similarity: 0.32) ---
+Customer: @AmazonHelp Like when?
+Historical Agent: @144294 Sorry that this is taking longer than expected. The issue is being looked into. I would request you to keep an eye on the e-mails and respond to the correspondence sent by the team. ^KK","I understand your issue regarding payment billing. @771017 I'm sorry. We don't have any information about the order via Twitter. For insight, you can have your brother log in at this link to check the current status of his order: https://t.co/Y5jpI9gRhE ^AI",,,,,,,
+2614173,@AmazonHelp I didn't get Amazon keychain on prime renewal ..please arrange one,,PRIME_SUBSCRIPTION,"--- Example 1 (Similarity: 0.36) ---
+Customer: @AmazonHelp I have and they didn’t
+Historical Agent: @143189 I'm sorry to hear this JJ. What were you advised when you contacted us about this? ^MI
+
+--- Example 2 (Similarity: 0.36) ---
+Customer: @AmazonHelp No I didn’t.
+Historical Agent: @302782 I can understand why you're frustrated, Tamsin! While we can't access order details via Twitter, we want to ensure the delay is addressed. Please reach us once more via phone/chat here: https://t.co/JzP7hlA23B ^CS
+
+--- Example 3 (Similarity: 0.36) ---
+Customer: @AmazonHelp No I didn't
+Historical Agent: @791889 Mhm that is strange! When you checked for the e-mail did you also check the spam/Junk folder? ^LS",I understand your issue regarding prime subscription. @143189 I'm sorry to hear this JJ. What were you advised when you contacted us about this? ^AI,,,,,,,
+1401350,@AmazonHelp are you having a laugh?! I've tried to cancel this order so many times!!!!!!!!! Still hasn't arrived!!! https://t.co/61DbnQxRZj,,ORDER_MODIFICATION,"--- Example 1 (Similarity: 0.44) ---
+Customer: @AmazonHelp please tell your having a laugh???? 😡😡😡😡 https://t.co/7EsXbEt6jw
+Historical Agent: @466376 Hi, sorry to see that. Please contact us here: https://t.co/JzP7hlA23B to look into this further. ^JJ
+
+--- Example 2 (Similarity: 0.38) ---
+Customer: When you order sage tablets for menopause symptoms and receive ovulation tests instead @AmazonHelp someone is having a laugh!!
+Historical Agent: @442563 Hi. My apologies for this. If you get in touch: https://t.co/JzP7hlA23B, we'll be happy to help. ^DC
+
+--- Example 3 (Similarity: 0.38) ---
+Customer: @AmazonHelp Are you having a laugh.. now the only item due today is now coming tomorrow. 🖕
+Historical Agent: @295193 Thanks for the update. Please keep us updated on the arrival of your package. We're here to help. ^LH","I understand your issue regarding order modification. @466376 Hi, sorry to see that. Please contact us here: https://t.co/JzP7hlA23B to look into this further. ^AI",,,,,,,
+2199057,"@115821 nfl doesn’t steam on my fire 4K tv :( I️ have prime, great internet :(",,PRIME_SUBSCRIPTION,"--- Example 1 (Similarity: 0.41) ---
+Customer: @115850 @128308 bro, get 4K fire TV !
+Historical Agent: @169498 Thanks for your interest. I'll be sure to pass on your feedback. ^AK
+
+--- Example 2 (Similarity: 0.34) ---
+Customer: @115850 when will the 4k fire tv stick launch in India?
+Historical Agent: @307263 We do not have an announcement yet for the requested information. ^KA
+
+--- Example 3 (Similarity: 0.31) ---
+Customer: @115821 what's this about a 49 inch 4k tv for $159 today? I want it but can't find it on your site! Help?
+Historical Agent: @149066 Hi Casey! All deals are advertised on the website, if the deal has expired/sold out, you won't be able to find it. Apologies if this has caused any inconvenience. ^JC",I understand your issue regarding prime subscription. @169498 Thanks for your interest. I'll be sure to pass on your feedback. ^AI,,,,,,,
+1572936,Inflation is getting out of hand. @115850 https://t.co/RZL3ckKz5h,,OTHER,"--- Example 1 (Similarity: 0.53) ---
+Customer: Getting the first hand experience on how badly customers are treated after sales @115850  @76349
+Historical Agent: @564054 We're sorry to hear that, Akash. Please tell us what happened and we'll get right on it. ^HK
+
+--- Example 2 (Similarity: 0.48) ---
+Customer: @115850 What is this??😂 https://t.co/4ZhitfrO2e
+Historical Agent: @339213 Thank you for flagging this. We'll get this rectified. ^SU
+
+--- Example 3 (Similarity: 0.48) ---
+Customer: @115850 https://t.co/r1NouLsKgJ
+Historical Agent: @672744 Hi, you can check this link: https://t.co/WGojUuU8vO for the most related items. ^VM","I understand your issue regarding other. @564054 We're sorry to hear that, Akash. Please tell us what happened and we'll get right on it. ^AI",,,,,,,
+946527,@AmazonHelp Until Wednesday to sort it out. But this happened again with a game I pre-ordered a couple of weeks back which didn’t arrive at all which...,@AmazonHelp Basically I pre-ordered the new Assassins Creed for Xbox then it didn’t arrive on the day it was meant to i.e Friday. So I have to wait..,DELIVERY_SHIPPING,"--- Example 1 (Similarity: 0.38) ---
+Customer: @AmazonHelp Last Wednesday
+Historical Agent: @158930 Which platform did you place your order for? ^LB
+
+--- Example 2 (Similarity: 0.38) ---
+Customer: @AmazonHelp Last Wednesday.
+Historical Agent: @523261 When you contacted us, what information or options were provided for the order? ^TH
+
+--- Example 3 (Similarity: 0.38) ---
+Customer: @AmazonHelp last Wednesday
+Historical Agent: @330805 We want to help get this sorted out! By Wednesday, do you mean October 11, or October 18? Keep us posted! ^EA",I understand your issue regarding delivery shipping. @428166 I'm sorry you haven't received it! We'd like to see what we can do to help so please reach us here: https://t.co/hApLpMlfHN ^AI,,,,,,,
+2902516,@AmazonHelp I don't expect Amazon to replace something that they didn't damage. It was the US Postal Service that damaged the goods by their delivery method.,@445598 Were we unable to replace it when you used the self-help link previously provided? If you need additional help please contact us by phone or chat here: https://t.co/hApLpMlfHN Let us know how it goes! ^DA,DAMAGED_MISSING_ITEM,"--- Example 1 (Similarity: 0.26) ---
+Customer: @115850 their delivery system is like Indian Postal service. The only difference is that Indian Postal service doesn’t boast about it.
+Historical Agent: @467057 Apologies, you can reach out to us here: https://t.co/vlvfJr4nN9 and we'll be glad to help you. ^SI
+
+--- Example 2 (Similarity: 0.25) ---
+Customer: I thought UPS was the worst delivery method, but I forgot about Amazon Logistics 😠 #effthis
+Historical Agent: @713645 Would you mind telling us what's going on? Are you having trouble with a current delivery? Please don't include any account details. ^RA
+
+--- Example 3 (Similarity: 0.25) ---
+Customer: @115830 @116324  Is this your new delivery method? #anywherewilldo #newlaptopthrownovergate https://t.co/xk0dTbjXMm
+Historical Agent: @775646 I'm so sorry for this poor experience, Jenni! Is the laptop okay? ^WJ","I understand your issue regarding damaged missing item. @195361 I'm sorry for the inconvenience in delivering this order, being a social platform we'll not be able to arrange 1/2 ^AI",,,,,,,
+865804,@AmazonHelp Today.  I was home.  Couldn't deliver???  Can't cancel order??? You guys are pathetic.  @AmazonHelp,"@AmazonHelp No, your representatives were completely unhelpful.  Told me I could ""cancel my membership if that's what made me happy.""",ORDER_MODIFICATION,"--- Example 1 (Similarity: 0.39) ---
+Customer: @AmazonHelp That’s why you guys are pathetic
+Historical Agent: @579927 We've cross-checked this and see a correspondence being sent to you on 17th November which can be found here: https://t.co/NTkrxpsbHJ. We suggest you to share your details on the link provided earlier if you aren't able to find one. ^YP
+
+--- Example 2 (Similarity: 0.31) ---
+Customer: @AmazonHelp No, today
+Historical Agent: @133240 We'd like to take a closer look into the delivery. Please contact us here: https://t.co/JzP7hlA23B ^LI
+
+--- Example 3 (Similarity: 0.31) ---
+Customer: @AmazonHelp Today
+Historical Agent: @533091 Were you sent an email about the delay that gave insight? Be sure to check SPAM just in case, it sometimes goes there. ^RM","@821369 I'm sorry for the trouble! We'd like to help. Without providing any personal or account information, please let us know what's going on. ^AI",,,,,,,
+915389,I bought an iPhone 7 from @115850 and got a micromax phone in an intek box. It’s been 7 Days No one picked up the product for replacement.,,DAMAGED_MISSING_ITEM,"--- Example 1 (Similarity: 0.40) ---
+Customer: @AmazonHelp bought an iPhone and received a micromax phone. Called customer care. No one has come for 8 Days to pick up the product ! WTF !!
+Historical Agent: @337350 I'm sorry for the trouble you've had so far. We’d like to help. Please fill this form: https://t.co/GIJyeYqKE0. ^MP
+
+--- Example 2 (Similarity: 0.36) ---
+Customer: @AmazonHelp When i will get update and iphone picked up @115850??? I have not even got call acknowledging this issue #amazonindiasucks
+Historical Agent: @442798 Kindly write back to the email you've received from our social media team and we'll reach out to you. ^GK
+
+--- Example 3 (Similarity: 0.34) ---
+Customer: @AmazonHelp Thanks for product replacement.
+Historical Agent: @220274 You're welcome. :) ^SI",I understand your issue regarding damaged missing item. @337350 I'm sorry for the trouble you've had so far. We’d like to help. Please fill this form: https://t.co/GIJyeYqKE0. ^AI,,,,,,,
+2847447,Hi @AmazonHelp Kinetic Sand delivered but address label &amp; Prime tape stuck over actual product (gift). If I peel off it'll look awful! Don't want wastage by getting replacement but could I have a some level of refund pls?,,REFUND_RETURN,"--- Example 1 (Similarity: 0.25) ---
+Customer: @AmazonHelp I have no idea who sent this. We only have the Amazon Prime tape and your scanned address label. Can I DM you a pic of the label?
+Historical Agent: @230455 We're unable to locate this information via Twitter, but we'd like to help. Please contact us here: https://t.co/JzP7hlA23B ^RA
+
+--- Example 2 (Similarity: 0.24) ---
+Customer: @AmazonHelp All detail sand sand sand sand last 31 time sir but not solve....
+Historical Agent: @523966 You should have received a correspondence from us. Please check our correspondence here: https://t.co/DTSNmGldJf. ^JS
+
+--- Example 3 (Similarity: 0.24) ---
+Customer: @AmazonHelp getting a replacement for sunday🙋🏻‍♂️
+Historical Agent: @138279 Glad to hear it, Will! Enjoy your TV.^TI","I understand your issue regarding refund return. @230455 We're unable to locate this information via Twitter, but we'd like to help. Please contact us here: https://t.co/JzP7hlA23B ^AI",,,,,,,
+665255,@AmazonHelp U shud check on ur system firstly my log in id no. is 9810573735,@AmazonHelp It was said that they are unable to  access to my issue/order. Then call disconnected even I couldn't talk to ur customer care,ACCOUNT_LOGIN,"--- Example 1 (Similarity: 0.44) ---
+Customer: @AmazonHelp please check ur dms
+Historical Agent: @228332 We have received your DMs and will respond shortly. ^KI
+
+--- Example 2 (Similarity: 0.36) ---
+Customer: @AmazonHelp Check ur message box..I will drop my registered mobile num and id
+Historical Agent: @294487 I get your concern, Shashank. We've responded to your concern via DM. Please check your inbox for the same. ^SV
+
+--- Example 3 (Similarity: 0.35) ---
+Customer: @AmazonHelp I have already replied on that mail long back. Check ur inbox first
+Historical Agent: @357392 Thank you for replying on the email, We'll get back to you with an update. You may check it here: https://t.co/DTSNmGldJf. ^BS",@269134 Apologies for the trouble with the delivery of your order. We'd like to take a closer look into this and help assist. Kindly share your details here: https://t.co/cQVomR1pWz and we'll have this sorted at the earliest. ^AI,,,,,,,
+2894594,@115851 @115850 Overwhelmed with joy from the amazing Amazon customer service ! Thank you. https://t.co/qwZFMtZB3m,,CUSTOMER_SERVICE_COMPLAINT,"--- Example 1 (Similarity: 0.36) ---
+Customer: And the amazing #Amazon driver has been with my joy &amp; bless parcels. I am so happy i could pop or even bodypop 🕺🔥💃👏🎄🎆🎉🍾🍸🍹🥂🍻🎄 #amazonrocks  #letsdothis https://t.co/730nU9buwu
+Historical Agent: @157194 Woot woot! Amazon delivery dance parties are the best! 😁📦 ^DW
+
+--- Example 2 (Similarity: 0.34) ---
+Customer: @AmazonHelp Just spoke to someone and amazing customer service! Best customer service out there- thank you so much!
+Historical Agent: @138101 Thank you for the positive feedback, Kristi! I'm glad we're able to help :-) ^LH
+
+--- Example 3 (Similarity: 0.34) ---
+Customer: @AmazonHelp i'm going to call customer service now thank u 🤗
+Historical Agent: @469062 We're still here if you need to reach back out! Let us know how your conversation goes! ^KJ",I understand your issue regarding customer service complaint. @157194 Woot woot! Amazon delivery dance parties are the best! 😁📦 ^AI,,,,,,,
+1520445,"@115830 I've used Amazon for years and yet since I paid for Prime I've been let down on several occasions.
+Today's is the 3rd/last time.",,PRIME_SUBSCRIPTION,"--- Example 1 (Similarity: 0.34) ---
+Customer: @AmazonHelp Couldn't  get my gaurented delivery  today 3rd time thanks for and i paid for it with prime.  You can amazon  customer care for my complaint
+Historical Agent: @207569 I'd like to take a closer look into this, please share your details here: https://t.co/GIJyeYqKE0. ^AG
+
+--- Example 2 (Similarity: 0.25) ---
+Customer: @115821 what am I supposed to do today is the 3rd https://t.co/HfdI2lPpby
+Historical Agent: @472822 I'm so sorry your order is running that late! We can look into options in real time here: https://t.co/hApLpMlfHN ^BL
+
+--- Example 3 (Similarity: 0.23) ---
+Customer: @AmazonHelp I've ordered a total of three physical things from Amazon over the years, and not one of them has been properly delivered.
+Historical Agent: @152938 I completely understand your concern! For further clarification, have you seen a trend in delivery issues with a certain carrier? Is there an outstanding order that is having an issue? ^VB","@207569 I'd like to take a closer look into this, please share your details here: https://t.co/GIJyeYqKE0. ^AI",,,,,,,
+431622,@115821 @AmazonHelp your new delivery by AMZL US sucks way to fix-break something that was fine before.No two day shipping for prime I guess,,DELIVERY_SHIPPING,"--- Example 1 (Similarity: 0.37) ---
+Customer: @AmazonHelp 2.  New delivery service.
+Historical Agent: @646519 Are you encountering issues initiating a return? Due to the shipping error, you shouldn't be charged anything. We're still happy to help in real-time here: https://t.co/EKXRLsnxJu ^AM
+
+--- Example 2 (Similarity: 0.35) ---
+Customer: Dear @115821, AMZL sucks.  Fix it or get rid of it. #MoreLikeSubPrime
+Historical Agent: @448221 I'm sorry we have let you down. Without account or personal details, can you tell us what's going on? ^TR
+
+--- Example 3 (Similarity: 0.31) ---
+Customer: @AmazonHelp no new one
+Historical Agent: @161021 Have you contacted the seller about new tracking info yet? If not, here's some tips on how to do so: https://t.co/BwnNMIWb7B ^TG","I understand your issue regarding delivery shipping. @646519 Are you encountering issues initiating a return? Due to the shipping error, you shouldn't be charged anything. We're still happy to help in real-time here: https://t.co/EKXRLsnxJu ^AI",,,,,,,
+192322,@AmazonHelp I am not able to cancel my order..plz help,,ORDER_MODIFICATION,"--- Example 1 (Similarity: 0.57) ---
+Customer: @115850 unable to cancel this order. Plz help me 
+403-6971836-0369117
+Historical Agent: @168268 We'll surely help you cancel this order. Please connect with us here: https://t.co/vlvfJr4nN9. We'll be glad to help. ^AR 1/2
+
+--- Example 2 (Similarity: 0.53) ---
+Customer: @AmazonHelp Why am I not able to cancel a delivery??
+Historical Agent: @193280 If the order is shipped, you will not be able to cancel it. However, kindly connect with (1/2)^SQ
+
+--- Example 3 (Similarity: 0.48) ---
+Customer: @115850 I am not able to cancel this order. Do help me out with this. https://t.co/xwBS4tF1qT
+Historical Agent: @195475 Please connect with our support team, here: https://t.co/TxK11znixD and we'll do the needful to help. ^KK",I understand your issue regarding order modification. @168268 We'll surely help you cancel this order. Please connect with us here: https://t.co/vlvfJr4nN9. We'll be glad to help. ^AI,,,,,,,
+643821,@115850 Worst service crapazon @115850 @AmazonHelp @115821,"#KaroMilkeTayyari apne favourite brands pe badi deals paane ki. #AmazonGreatIndianFestival, 14th to 17th October. https://t.co/bDhBWb2Pho https://t.co/iOcFmTcqVU",CUSTOMER_SERVICE_COMPLAINT,"--- Example 1 (Similarity: 0.76) ---
+Customer: @AmazonHelp @115850 worst service by you
+Historical Agent: @190284 If you have shared your details, we'll reach out to you at the earliest. Keep a tab here:  https://t.co/DTSNmGldJf. ^CB
+
+--- Example 2 (Similarity: 0.68) ---
+Customer: @115850 worst service https://t.co/V0Wm5jRiDX
+Historical Agent: @167367 Could you please let us know what went wrong ? We'd like to help you. Please don't provide your order details, we consider it personal information. Our Twitter page is visible to public. ^AS
+
+--- Example 3 (Similarity: 0.66) ---
+Customer: @115850 worst service ever should close you services
+Historical Agent: @381322 Could you let us know the reasons behind the disappointment? ^MJ","@190284 If you have shared your details, we'll reach out to you at the earliest. Keep a tab here:  https://t.co/DTSNmGldJf. ^AI",,,,,,,
+2397278,"When i report an issue of incorrect product / damaged products being delivered in two months at Amazon India , they say they would not let this happen again and yet I have had to face these issues six times in two months .I regret buying at Amazon India . # Amazon .in",,DAMAGED_MISSING_ITEM,"--- Example 1 (Similarity: 0.51) ---
+Customer: Have had to face three instances of incorrect products being delivered and also two times damaged products were delivered in two months from Amazon India . This is completely unacceptable. # Amazon.in
+Historical Agent: @689667 Apologies for the mess, we'd like to have a look into this, please share your details here: https://t.co/cQVomR1pWz and we'll contact you soon. ^SU
+
+--- Example 2 (Similarity: 0.37) ---
+Customer: Amazon India is a gem https://t.co/5P9CdXw3Ei
+Historical Agent: @184604 We have products from A to Z and this is one of them. ^SV
+
+--- Example 3 (Similarity: 0.32) ---
+Customer: @AmazonHelp No, not from Amazon India.
+Historical Agent: @244328 I'm sorry, echo devices purchased outside India are not designed to work in India. ^NR","@689667 Apologies for the mess, we'd like to have a look into this, please share your details here: https://t.co/cQVomR1pWz and we'll contact you soon. ^AI",,,,,,,
+2601540,"@AmazonHelp - my wife’s account is coming up as “locked, please check your emails......” but she hasn’t received any instructions. What does she need to do as she is doing my head in!! Many thanks. G",,ACCOUNT_LOGIN,"--- Example 1 (Similarity: 0.38) ---
+Customer: @AmazonHelp Still there. Wife has it too
+Historical Agent: @278698 To see what deals are currently available, you will want to look under the ""Trending"" or ""All Deals""  tabs. You can sort by category by clicking the ""Explore"" tab. ^FJ
+
+--- Example 2 (Similarity: 0.35) ---
+Customer: @AmazonHelp My wife’s account was debited £80 for AmazonPrime. She does not wish to avail of this service, nor was it agreed to.
+Historical Agent: @752356 I'm sorry! If no benefits have been used, canceling issues a full refund. You can do so here https://t.co/UQcc2zHymo ^MW
+
+--- Example 3 (Similarity: 0.35) ---
+Customer: @AmazonHelp my wife's account was hacked and all support can say is there nothing they can do to help.
+Historical Agent: @227642 Please check your email for an e-mail from our Account Specialists. Be sure to also check your junk/spam folder. ^JP","I understand your issue regarding account login. @278698 To see what deals are currently available, you will want to look under the ""Trending"" or ""All Deals""  tabs. You can sort by category by clicking the ""Explore"" tab. ^AI",,,,,,,
+486748,"@AmazonHelp So I applied for your rewards card. I was sent the email stating that I got approved, it's on my account, but you guys asked me to confirm the number. Did that with my CapOne card too.","@161302 Oh no, Katherine! Could you explain to us what happened, without providing any personal account information? ^GP",PAYMENT_BILLING,"--- Example 1 (Similarity: 0.27) ---
+Customer: @AmazonHelp Applied again for a replacement
+Historical Agent: @227282 Please reach our Customer Service by clicking here: https://t.co/KjE1vPQiRj, we'll be glad to help you! ^GD
+
+--- Example 2 (Similarity: 0.26) ---
+Customer: @AmazonHelp No rewards for me??? 😏
+Historical Agent: @349395 Unfortunately, we do not offer a bounty program. ^SA
+
+--- Example 3 (Similarity: 0.25) ---
+Customer: @AmazonHelp It's been approved
+Historical Agent: @552944 Marc, since your credit card has been approved, is the gift card now on your account? Keep us posted. Thanks. ^SE",I understand your issue regarding payment billing. @434857 Hey Layne! We can help in real time with a quicker response via phone or chat. Please contact us here: https://t.co/jzvkhdlrK5 ^AI,,,,,,,
+2401212,Shout-out to @AmazonHelp for quickly resolving my hacked account! Reported it 8 hours ago and it's mine again already!,,ACCOUNT_LOGIN,"--- Example 1 (Similarity: 0.47) ---
+Customer: Shout out to @AmazonHelp for resolving an issue that was not even your own. #daymade
+Historical Agent: @647789 I'm glad we were able to help! Thanks for the shout-out. 😊 ^BE
+
+--- Example 2 (Similarity: 0.34) ---
+Customer: @AmazonHelp I have already done this procedure 3 hours ago
+Historical Agent: @351784 Thank you for your confirmation, Pratiksha. Our team shall reach out to you soon. Appreciate your understanding. ^MP
+
+--- Example 3 (Similarity: 0.33) ---
+Customer: @AmazonHelp Almost 5 hours ago
+Historical Agent: @215064 Thanks. Please get in touch here and I'll have a specialist look into this for you: https://t.co/R55eEQwSEs. ^BM",I understand your issue regarding account login. @647789 I'm glad we were able to help! Thanks for the shout-out. 😊 ^AI,,,,,,,
+2555213,@AmazonHelp This is been almost a month i asked for return and then subsequently refund.everything was delays. Not happy at all,"@725594 Apologies for the experience, Please share your details here: https://t.co/GIJyeYqKE0 and we will get in touch with you shortly. ^BS",REFUND_RETURN,"--- Example 1 (Similarity: 0.48) ---
+Customer: @AmazonHelp It's been a month .
+Historical Agent: @294137 I'd like to take a closer look into this, please share your details here: https://t.co/GIJyeYqKE0. ^AG
+
+--- Example 2 (Similarity: 0.36) ---
+Customer: @AmazonHelp A month or 2 ago
+Historical Agent: @382810 Reach us here:  https://t.co/JzP7hlA23B via Phone or Chat.^CD
+
+--- Example 3 (Similarity: 0.36) ---
+Customer: @AmazonHelp Less than a month ago
+Historical Agent: @689007 Thank you for the update! Please contact us via phone or chat at the following link so we can look into available options with you: https://t.co/JzP7hlA23B ^MW","@294137 I'd like to take a closer look into this, please share your details here: https://t.co/GIJyeYqKE0. ^AI",,,,,,,
+1553854,Being driven slowly insane by @115821 &amp; @115830 -my password has been reset (not by me) and so far customer services have been useless.,,ACCOUNT_LOGIN,"--- Example 1 (Similarity: 0.35) ---
+Customer: @AmazonHelp The outcome so far is your customer services are shit
+Historical Agent: @530477 I'm sorry for the experience. My team would like to look into further. Please provide more info here: https://t.co/nuAqQ7sA1P ^EB
+
+--- Example 2 (Similarity: 0.33) ---
+Customer: @55507 Yeah... these were not delivered with everything else. @115830 customer services have been useless https://t.co/LO5Wsz9WhE
+Historical Agent: @429611 I'm sorry for the poor experience, John! Were you provided with any other insight or options? ^WJ
+
+--- Example 3 (Similarity: 0.28) ---
+Customer: Thanks @115830 my daughter now knows what one of her Christmas presents is going to be - customer services was useless about resolving it! https://t.co/HNHvcoXAVZ
+Historical Agent: @431264 I'm so sorry! It looks like this was shipped w/o excess packaging: https://t.co/4D66OQUmRa Were any options offered? ^LB",I understand your issue regarding account login. @530477 I'm sorry for the experience. My team would like to look into further. Please provide more info here: https://t.co/nuAqQ7sA1P ^AI,,,,,,,
+1709395,@AmazonHelp First my yall said my payment didn't go through now your giving me a refund for something I paid for and should have tomorrow.,"@517961 Sorry for the trouble! Without providing account/personal info, could you tell us more about the issue at hand? ^VB",REFUND_RETURN,"--- Example 1 (Similarity: 0.48) ---
+Customer: @AmazonHelp Yall!
+Historical Agent: @116852 I do apologize. We'd like to look into this with you in real time. Please reach out to us here: https://t.co/hApLpMlfHN ^BL
+
+--- Example 2 (Similarity: 0.43) ---
+Customer: @AmazonHelp Yall.
+
+AMZL US
+
+which...
+Historical Agent: @302336 We'd like to have this looked into further. Please relay specifics to us securely here: https://t.co/AIH3VdiM8V ^MV
+
+--- Example 3 (Similarity: 0.37) ---
+Customer: @115821 @AmazonHelp yall gonna take a look at this?
+Historical Agent: @325568 I'm so sorry for the delay! We're delivering as late as 9pm. Let us know if you don't get it by then! ^TK",I understand your issue regarding refund return. @116852 I do apologize. We'd like to look into this with you in real time. Please reach out to us here: https://t.co/hApLpMlfHN ^AI,,,,,,,
+1649138,"@131470 I've had payments declined 12 times on Amazon. each time you say it's working I try again, clearly you don't know whats wrong",,OTHER,"--- Example 1 (Similarity: 0.28) ---
+Customer: Amazon's delivery drivers clearly don't know what a door looks like https://t.co/lFzZcpU4iC
+Historical Agent: @124647 Oh no! I'm sorry for this issue! I'd like for a member of my team to look into this further. When you have a moment, please leave your details here: https://t.co/Pb6mLCV8un ^HM
+
+--- Example 2 (Similarity: 0.27) ---
+Customer: Man dont Know whats Wrong with Redgear Every Product i order from them is Defective and i have to return it and now its also  out of stock  on @115850 dont know what to do
+Historical Agent: @121290 I'm sorry you've received a defective product. Please report it to our support tea here: https://t.co/2t6DQoUmNZ we'll look into it and help you. ^AP
+
+--- Example 3 (Similarity: 0.24) ---
+Customer: Don't know whats going with @115850. Back to back disappointment even after paying for prime delivery service. Very disappointed with it
+Historical Agent: @614767 I get your disappointment because of the delivery services. Please contact us here: https://t.co/vlvfJr4nN9 so that we can assist you accordingly. ^PJ","@124647 Oh no! I'm sorry for this issue! I'd like for a member of my team to look into this further. When you have a moment, please leave your details here: https://t.co/Pb6mLCV8un ^AI",,,,,,,
+678292,"@AmazonHelp Still it take more time to work on.
+I just ask to refund my money to my bank account.",@281822 Thanks for the heads up. Our team will work on this issue and get back to you with an update. ^PJ,PAYMENT_BILLING,"--- Example 1 (Similarity: 0.37) ---
+Customer: @115850 I could get back my money to my bank account. Please assist.
+Historical Agent: @209451 I'm sorry to hear this. Kindly reach out to our team here: https://t.co/T6y6Xlutbs. They'll look into this for you. ^VN
+
+--- Example 2 (Similarity: 0.36) ---
+Customer: @AmazonHelp Please just ask UPS about why they reshedule so often That's all u have to do.
+Historical Agent: @632379 Thanks for the additional information! We'd like to look into this for you. When you get a moment, please contact us via chat or phone to provide carrier feedback:  https://t.co/JzP7hlA23B ^SW
+
+--- Example 3 (Similarity: 0.33) ---
+Customer: @115850  i got my refund money to my bank account but  your product unable to return to you.Please collect your product
+Historical Agent: @194891 Thanks for the update. Please revert to the email you've received from us, you can check that here: https://t.co/DTSNmGldJf ^MS",I understand your issue regarding payment billing. @787159 Since you've responded to the correspondence. You'd receive an update anytime soon. Appreciate your patience and understanding. ^AI,,,,,,,
+2151877,Hey @AmazonHelp where the hell is the parcel you were supposed to deliver to @632357 this morning? This one gone missing again has it?,,DAMAGED_MISSING_ITEM,"--- Example 1 (Similarity: 0.43) ---
+Customer: @626727 @115830 I had one in Sunday that's gone missing too.
+Historical Agent: @627582 I'm sorry to hear this! What is the latest status your order is showing upon reviewing it: https://t.co/aaDyEz1VgE? ^WM
+
+--- Example 2 (Similarity: 0.43) ---
+Customer: @AmazonHelp Hell no!
+Historical Agent: @278922 I'm sorry it didn't arrive as scheduled! That's frustrating. Who was the carrier for this delivery? Does the tracking information show an updated delivery date? You can check for that information here: https://t.co/Y5jpI9gRhE
+
+--- Example 3 (Similarity: 0.35) ---
+Customer: @115830 who do I contact about parcels that have gone missing?
+Historical Agent: @246507 Hi, Becky! Sorry to hear about your missing parcels! We're here to help! You can reach us anytime by going here: https://t.co/JzP7hlA23B ^RB",I understand your issue regarding damaged missing item. @627582 I'm sorry to hear this! What is the latest status your order is showing upon reviewing it: https://t.co/aaDyEz1VgE? ^AI,,,,,,,
+671593,"@AmazonHelp It wasn't an update, but does this happen often? It took an hour to 'optimise system storage and applications'!!!","@280251 That's strange; I've checked and see that recently no update has been released for Fire TV. However, please check this with our team here: https://t.co/T6y6Xlutbs and keep us posted. ^VN",OTHER,"--- Example 1 (Similarity: 0.44) ---
+Customer: @AmazonHelp Ok...how does that happen?
+Historical Agent: @332951 Once you provide your information using the link FD provided a member of our Social Media team will contact you. ^ZW
+
+--- Example 2 (Similarity: 0.43) ---
+Customer: @AmazonHelp No it wasn't ^^
+Historical Agent: @361426 Can you tell me what Amazon site your order was placed on? For example: .com, .ca. Let us know! ^CN
+
+--- Example 3 (Similarity: 0.43) ---
+Customer: @AmazonHelp It wasn’t! That I could see!
+Historical Agent: @123663 I apologize for any inconvenience. I hope you will be able to take advantage of our future promotions. ^EB","I understand your issue regarding other. @456672 I'm sorry for the wait. If you haven't received it by the end of today, please reach us again here: https://t.co/hApLpMlfHN ^AI",,,,,,,
+2399207,@AmazonHelp Do you mean email customer service or use the website to cancel the order. This loaded when I clicked on cancel order. https://t.co/G3p0hhRKvi,@690399 Oh no! Contact us here: https://t.co/JzP7hlA23B so we can help ^AS,ORDER_MODIFICATION,"--- Example 1 (Similarity: 0.43) ---
+Customer: @115850 That's fine. You please cancel the order
+Historical Agent: @181821 We request you to contact us using this link: https://t.co/GmYPWj1ew5 so we could help you cancel the order.^RS
+
+--- Example 2 (Similarity: 0.43) ---
+Customer: @AmazonHelp thanks , but i do not want to cancel order . Please do not cancel order
+Historical Agent: @268705 I understand that you don't want the order to be canceled. You can reach out to our team via previous link to confirm the same. ^VN
+
+--- Example 3 (Similarity: 0.41) ---
+Customer: @AmazonHelp Should I cancel the order?
+Historical Agent: @145872 Hi Ryan, if you find a seller that can get it to you sooner than yes, I'd suggest canceling the current order. If you go through the checkout now without buying it, are you getting your estimated delivery date?^MA",I understand your issue regarding order modification. @181821 We request you to contact us using this link: https://t.co/GmYPWj1ew5 so we could help you cancel the order. ^AI,,,,,,,

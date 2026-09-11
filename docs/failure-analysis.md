@@ -16,7 +16,7 @@ The top failure modes from the end-to-end evaluation are documented below.
 
 ## Conservative Complaint Escalation
 - **Number of affected examples**: 25
-- **Example**: Tweet 545729
+- **Example**: Tweet 1018224
 - **Why the system failed**: The policy explicitly hard-escalates all serious complaints regardless of confidence.
 - **Proposed improvement**: Allow the agent to generate an empathetic de-escalation reply before routing to a human.
 
