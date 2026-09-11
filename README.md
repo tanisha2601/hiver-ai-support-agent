@@ -53,8 +53,10 @@ AUTO_HANDLE / ESCALATE
 | Model | Accuracy | Macro F1 | Weighted F1 |
 |---|---:|---:|---:|
 | Majority Baseline | 12.5% | 2.5% | 2.8% |
-| TF-IDF + LogReg | 86.0% | 86.3% | 86.0% |
+| TF-IDF + LogReg (Text + Context) | 86.0% | 86.3% | 86.0% |
 | Final Agent | 85.5% | 86.0% | 85.6% |
+
+The baseline reported above reflects the Text + Context variant (the Text-Only variant achieved 89.5%), but both are weakly supervised and should not be interpreted as human-validated benchmark accuracy.
 
 *Limitation*: The TF-IDF baseline was trained on weakly supervised heuristics and might overfit instead of learning semantic meaning.
 
@@ -72,7 +74,7 @@ AUTO_HANDLE / ESCALATE
 
 ### 1. Clone
 ```bash
-git clone <repository-url> hiver-ai-support-agent
+git clone https://github.com/tanisha2601/hiver-ai-support-agent.git
 cd hiver-ai-support-agent
 ```
 
