@@ -42,7 +42,7 @@ export const Failures: React.FC = () => {
                     </div>
                   </div>
                   <div>
-                    <span className="font-semibold text-slate-900 block mb-1 flex items-center gap-2">
+                    <span className="font-semibold text-slate-900 mb-1 flex items-center gap-2">
                       <AlertTriangle size={16} className="text-amber-500" /> Why the system failed
                     </span>
                     <p>{f['Why the system failed']}</p>
