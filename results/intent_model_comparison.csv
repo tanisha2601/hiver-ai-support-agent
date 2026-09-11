@@ -1,0 +1,2 @@
+Model,accuracy,macro_precision,macro_recall,macro_f1,weighted_f1
+Pipeline Classifier,0.895,0.9188372349604234,0.8816666666666666,0.8961570591800745,0.8947685123436887

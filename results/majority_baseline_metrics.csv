@@ -1,0 +1,2 @@
+majority_intent,train_examples_estimated,accuracy,macro_precision,macro_recall,macro_f1,weighted_f1
+DELIVERY_SHIPPING,33890,0.125,0.013888888888888888,0.1111111111111111,0.024691358024691357,0.027777777777777776

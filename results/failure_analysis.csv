@@ -1,0 +1,6 @@
+Failure name,Number of affected examples,Example,Why the system failed,Proposed improvement
+Weak Retrieval (No Grounding),43,Tweet 545729,The hybrid retriever could not find any historically similar examples above the minimum similarity threshold.,Increase the size of the historical corpus or lower the fallback retrieval threshold for safe intents.
+Intent Misclassification,29,"Tweet 2142987: Predicted OTHER, True DAMAGED_MISSING_ITEM","The weak-supervision trained model failed to predict the manually assigned gold intent, often due to overlapping vocabulary (e.g. delivery vs damaged).",Gather a manually annotated training set or utilize a more powerful semantic embedding classifier.
+Conservative Complaint Escalation,25,Tweet 545729,The policy explicitly hard-escalates all serious complaints regardless of confidence.,Allow the agent to generate an empathetic de-escalation reply before routing to a human.
+Unsupported Action Escalation,13,Tweet 2399207,The user requested an action the agent cannot perform natively without high grounding.,Implement API tool calling capabilities to actually modify orders.
+Over-escalation on Ambiguous Follow-ups,1,Tweet 1828696,Short messages were correctly classified but escalated aggressively due to a missing context signal.,Build an entity extractor to check if order IDs/tracking numbers exist before escalating.

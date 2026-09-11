@@ -1,0 +1,2 @@
+avg_relevance,avg_grounding,avg_helpfulness,avg_conciseness,avg_overall,percent_strong,percent_acceptable,percent_weak
+0.895,0.55,0.7,0.98,0.78125,0.53,0.42,0.05

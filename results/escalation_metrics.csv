@@ -1,0 +1,2 @@
+AUTO_HANDLE_rate,ESCALATE_rate,low_confidence_AUTO_HANDLE_rate,weak_grounding_AUTO_HANDLE_rate,account_sensitive_AUTO_HANDLE_rate,complaint_escalation_rate,unclear_context_escalation_rate,note
+0.04,0.96,0.0,0.0,0.0,1.0,1.0,Policy/proxy metrics rather than human-validated escalation accuracy.

@@ -1,0 +1,2 @@
+accuracy,macro_precision,macro_recall,macro_f1,weighted_f1,methodology
+0.855,0.8738962189942582,0.8540740740740741,0.8598543496848582,0.8557588468181687,AI-assisted stratified evaluation labels

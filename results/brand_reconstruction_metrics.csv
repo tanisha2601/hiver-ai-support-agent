@@ -1,0 +1,6 @@
+Brand,Total Messages (Brand),Customer Inbound Messages,Brand Outbound Messages,Customer->Brand Links,Brand->Customer Links,Conversations With Both Sides,Cust Messages With Brand Reply,Response Coverage (%),Avg Conv Length,Median Conv Length,Max Conv Length,Conv >= 2 Msgs (%),Cust Msgs With Context (%),Date Range,Usable Messages Count,Total Conversations
+AmazonHelp,169840,203598,169840,168814,100503,82556,154976,76.12,4.53,3.0,448,100.0,59.95,2011-10-13 to 2017-12-03,374042,82556
+AppleSupport,106860,131764,106860,106646,36658,80717,106623,80.92,2.96,2.0,282,100.0,38.9,2013-05-04 to 2017-12-03,238873,80717
+Uber_Support,56270,72154,56270,56160,22160,41923,55182,76.48,3.07,2.0,534,100.0,42.02,2014-05-27 to 2017-12-03,128550,41923
+SpotifyCares,43265,48543,43265,43092,15096,28277,41585,85.67,3.25,2.0,354,100.0,41.86,2013-09-18 to 2017-12-03,91889,28280
+Delta,42253,45296,42253,42114,14470,26166,36134,79.77,3.36,2.0,209,100.0,42.47,2012-11-27 to 2017-12-03,87991,26168

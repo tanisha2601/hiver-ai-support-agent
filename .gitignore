@@ -1,0 +1,49 @@
+# Environments
+.env
+.env.*
+.venv/
+env/
+venv/
+ENV/
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temp files
+*.tmp
+*.bak
+scratch/
+
+# Datasets
+data/raw/*
+!data/raw/.gitkeep
+data/interim/*
+!data/interim/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Models/cache
+models/
+*.pt
+*.pth
+*.h5
+*.pkl
+.pytest_cache/

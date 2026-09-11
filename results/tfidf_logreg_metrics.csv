@@ -1,0 +1,2 @@
+input_variant,accuracy,macro_precision,macro_recall,macro_f1,weighted_f1
+customer_text_and_context,0.86,0.8804864866364998,0.8533333333333334,0.8633731488931641,0.8602975270157112
