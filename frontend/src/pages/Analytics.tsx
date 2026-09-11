@@ -29,7 +29,7 @@ export const Analytics: React.FC = () => {
           {/* Intent Distribution */}
           <div className="bg-white p-6 rounded-lg border border-slate-200 shadow-sm flex flex-col">
             <h3 className="text-lg font-semibold text-slate-800 mb-4">Predicted Intent Distribution</h3>
-            <div className="flex-1 min-h-[300px]">
+            <div className="flex-1 min-h-75">
               <ResponsiveContainer width="100%" height="100%">
                 <BarChart data={data.intent_distribution} layout="vertical" margin={{ left: 50, right: 20 }}>
                   <CartesianGrid strokeDasharray="3 3" horizontal={false} />
@@ -45,7 +45,7 @@ export const Analytics: React.FC = () => {
           {/* Actual Intent Distribution */}
           <div className="bg-white p-6 rounded-lg border border-slate-200 shadow-sm flex flex-col">
             <h3 className="text-lg font-semibold text-slate-800 mb-4">Actual (AI-Assisted) Intent Distribution</h3>
-            <div className="flex-1 min-h-[300px]">
+            <div className="flex-1 min-h-75">
               <ResponsiveContainer width="100%" height="100%">
                 <BarChart data={data.true_intent_distribution} layout="vertical" margin={{ left: 50, right: 20 }}>
                   <CartesianGrid strokeDasharray="3 3" horizontal={false} />
@@ -61,7 +61,7 @@ export const Analytics: React.FC = () => {
           {/* Decisions */}
           <div className="bg-white p-6 rounded-lg border border-slate-200 shadow-sm flex flex-col">
             <h3 className="text-lg font-semibold text-slate-800 mb-4">Escalation Decisions</h3>
-            <div className="flex-1 min-h-[250px] flex justify-center">
+            <div className="flex-1 min-h-62.5 flex justify-center">
               <ResponsiveContainer width="100%" height="100%">
                 <PieChart>
                   <Pie
@@ -90,7 +90,7 @@ export const Analytics: React.FC = () => {
             <p className="text-xs text-slate-500 mb-4">
               Note: The high concentration of WEAK/NONE is due to hybrid cosine similarity thresholds (&gt;0.5) against short tweets.
             </p>
-            <div className="flex-1 min-h-[250px] flex justify-center">
+            <div className="flex-1 min-h-62.5 flex justify-center">
               <ResponsiveContainer width="100%" height="100%">
                 <PieChart>
                   <Pie
@@ -116,7 +116,7 @@ export const Analytics: React.FC = () => {
           {/* Confidence */}
           <div className="bg-white p-6 rounded-lg border border-slate-200 shadow-sm flex flex-col">
             <h3 className="text-lg font-semibold text-slate-800 mb-4">Intent Confidence Distribution</h3>
-            <div className="flex-1 min-h-[250px]">
+            <div className="flex-1 min-h-62.5">
               <ResponsiveContainer width="100%" height="100%">
                 <BarChart data={data.confidence_distribution}>
                   <CartesianGrid strokeDasharray="3 3" vertical={false} />
@@ -134,7 +134,7 @@ export const Analytics: React.FC = () => {
             <h3 className="text-lg font-semibold text-slate-800 mb-4 flex items-center gap-2">
               <AlertTriangle size={20} className="text-amber-500" /> Top Failure Modes
             </h3>
-            <div className="flex-1 min-h-[250px]">
+            <div className="flex-1 min-h-62.5">
               <ResponsiveContainer width="100%" height="100%">
                 <BarChart data={data.failure_distribution} layout="vertical" margin={{ left: 10, right: 20 }}>
                   <CartesianGrid strokeDasharray="3 3" horizontal={false} />

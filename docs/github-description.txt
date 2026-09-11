@@ -1,0 +1,1 @@
+AI customer-support agent with hybrid retrieval, grounded generation, and policy-driven escalation using FastAPI and React.

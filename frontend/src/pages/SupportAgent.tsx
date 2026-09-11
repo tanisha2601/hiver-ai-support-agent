@@ -157,14 +157,14 @@ export const SupportAgent: React.FC = () => {
               {result && !loading && (
                 <div className="space-y-6">
                   {/* Pipeline Viz */}
-                  <div className="space-y-0 relative before:absolute before:inset-0 before:ml-4 before:-translate-x-px md:before:mx-auto md:before:translate-x-0 before:h-full before:w-0.5 before:bg-gradient-to-b before:from-transparent before:via-slate-200 before:to-transparent">
+                  <div className="space-y-0 relative before:absolute before:inset-0 before:ml-4 before:-translate-x-px md:before:mx-auto md:before:translate-x-0 before:h-full before:w-0.5 before:bg-linear-to-b before:from-transparent before:via-slate-200 before:to-transparent">
                     
                     <div className="relative flex items-center justify-between md:justify-normal md:odd:flex-row-reverse group is-active pb-6">
                       <div className="flex items-center justify-center w-8 h-8 rounded-full border border-white bg-slate-100 text-slate-500 shadow shrink-0 md:order-1 md:group-odd:-translate-x-1/2 md:group-even:translate-x-1/2">
                         <CheckCircle size={16} className="text-brand-500" />
                       </div>
                       <div className="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-3 rounded border border-slate-200 bg-white shadow-sm">
-                        <div className="font-semibold text-slate-800 text-xs tracking-wider uppercase mb-1 text-slate-500">Intent</div>
+                        <div className="font-semibold text-xs tracking-wider uppercase mb-1 text-slate-500">Intent</div>
                         <div className="flex items-center gap-2 text-sm">
                           <span className="font-medium text-slate-800">{result.intent}</span>
                           <span className="text-xs text-slate-500">· {(result.intent_confidence * 100).toFixed(0)}%</span>
@@ -177,7 +177,7 @@ export const SupportAgent: React.FC = () => {
                         <CheckCircle size={16} className="text-brand-500" />
                       </div>
                       <div className="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-3 rounded border border-slate-200 bg-white shadow-sm">
-                        <div className="font-semibold text-slate-800 text-xs tracking-wider uppercase mb-1 text-slate-500">Retrieval</div>
+                        <div className="font-semibold text-xs tracking-wider uppercase mb-1 text-slate-500">Retrieval</div>
                         <div className="flex items-center gap-2 text-sm">
                           <span className="font-medium text-slate-800">{result.retrieved_examples?.length || 0} examples</span>
                           <span className="text-xs text-slate-500">
@@ -192,7 +192,7 @@ export const SupportAgent: React.FC = () => {
                         <CheckCircle size={16} className="text-brand-500" />
                       </div>
                       <div className="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-3 rounded border border-slate-200 bg-white shadow-sm">
-                        <div className="font-semibold text-slate-800 text-xs tracking-wider uppercase mb-1 text-slate-500">Grounding</div>
+                        <div className="font-semibold text-xs tracking-wider uppercase mb-1 text-slate-500">Grounding</div>
                         <div className="text-sm">
                           <span className={`px-1.5 py-0.5 rounded font-medium ${
                             result.grounding_status === 'STRONG' ? 'bg-green-100 text-green-700' : 
@@ -209,7 +209,7 @@ export const SupportAgent: React.FC = () => {
                         <CheckCircle size={16} className="text-brand-500" />
                       </div>
                       <div className="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-3 rounded border border-slate-200 bg-white shadow-sm">
-                        <div className="font-semibold text-slate-800 text-xs tracking-wider uppercase mb-1 text-slate-500">Response</div>
+                        <div className="font-semibold text-xs tracking-wider uppercase mb-1 text-slate-500">Response</div>
                         <div className="text-sm font-medium text-slate-800">Generated</div>
                       </div>
                     </div>
